@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **react , java , python**
 
-- 📫 How to reach me **pradnyapanchal777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
