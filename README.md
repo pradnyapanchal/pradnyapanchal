@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm pradnya panchal</h1>
-<h3 align="center">Hi there 👋 I’m Pradnya, a recent graduate from Shankar Narayan College. I am currently a Master of Computer Science student at Mumbai University, with a passion for software development and technology. I build web applications using MERN stack, Java, Python, and more. Passionate about programming, problem-solving, and exploring new technologies. Sharing my projects and learning journey here on GitHub. Outside of study, I'm interested in following the developments of science. I make art, play video games and build tech related projects . Let's connect!</h3>
+<h3 align="center">Hi there 👋 I’m Pradnya, a recent graduate from Shankar Narayan College. I am currently a Master of Computer Science student at Mumbai University, with a passion for software development and technology. I build web applications using MERN stack, Java, Python, and more. Passionate about programming, problem-solving, and exploring new technologies. Sharing my projects and learning journey here on GitHub. Outside of study, I'm interested in following the developments of science. I make art, play video games and build tech related projects . Let's connect !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradnyapanchal&label=Profile%20views&color=0e75b6&style=flat" alt="pradnyapanchal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradnyapanchal" alt="pradnyapanchal" /></a> </p>
 
 - 💬 Ask me about **react , java ,php, python **
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
