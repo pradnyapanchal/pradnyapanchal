@@ -6,6 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+  <a href="https://www.linkedin.com/in/777pradnyapanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pradnyapanchal_" height="30" width="40" /></a>
 <a href="https://twitter.com/@pradnyapanchal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pradnyapanchal_" height="30" width="40" /></a>
 <a href="https://instagram.com/pradnyapanchal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradnyapanchal_" height="30" width="40" /></a>
 <a href="https://medium.com/pradnyapanchal@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pradnyapanchal@" height="30" width="40" /></a>
